@@ -7,3 +7,5 @@
 🚧 **Projects**: I have previously worked on [Typus](https://github.com/typusio), [Chapter](https://github.com/freecodecamp/chapter), and many others. I am currently working on [Blue](https://github.com/tryblue), along with many other exciting projects!
 
 🥞 **Stack**: I primarily use TypeScript, Postgres, React (sometimes Next), Node, and Docker. I have worked with many other stacks and it is always evolving!
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frobertwestbury)
