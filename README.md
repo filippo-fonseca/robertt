@@ -9,4 +9,7 @@
 
 🥞 **Stack**: I primarily use TypeScript, Postgres, React (sometimes Next), Node, and Docker. I have worked with many other stacks and it is always evolving!
 
+## My contributions as a Game of Life
+![image](https://github4life.herokuapp.com/robertwestbury.gif)
+
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frobertwestbury)
