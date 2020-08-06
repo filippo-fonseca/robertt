@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/rCCYKNL.jpeg)
+![image](https://i.imgur.com/xBqYfL7.jpg)
 ### Hi there, welcome to my GitHub! 👋
 
 🚀 My name is Robert, I'm 14 years old and live in 🇬🇧 England. I'm a self-taught full stack developer specialising in TypeScript, C++ and many others. I also own the [Official TypeScript Community](https://discord.gg/typescript).
