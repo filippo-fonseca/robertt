@@ -10,4 +10,9 @@
 
 🥞 **Stack**: I primarily use TypeScript, Postgres, React (sometimes Next), Node, and Docker. I have worked with many other stacks and it is always evolving!
 
+### ✨ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frobertwestbury)
