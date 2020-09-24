@@ -3,6 +3,7 @@ name: Update Github Activity
 on:
   schedule:
     - cron: '*/30 * * * *'
+  push:
 
 jobs:
   build:
