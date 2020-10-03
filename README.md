@@ -13,11 +13,11 @@
 ### ✨ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/typescript-community/community-bot/issues/84) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
-2. 💪 Opened PR [#89](https://github.com/typescript-community/community-bot/pull/89) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
-3. 🎉 Merged PR [#85](https://github.com/typescript-community/community-bot/pull/85) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
-4. ❌ Closed PR [#87](https://github.com/typescript-community/community-bot/pull/87) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
-5. ❗️ Opened issue [#86](https://github.com/typescript-community/community-bot/issues/86) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
+1. 🎉 Merged PR [#93](https://github.com/typescript-community/community-bot/pull/93) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
+2. ❗️ Opened issue [#95](https://github.com/typescript-community/community-bot/issues/95) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
+3. 🎉 Merged PR [#94](https://github.com/typescript-community/community-bot/pull/94) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
+4. 🗣 Commented on [#84](https://github.com/typescript-community/community-bot/issues/84) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
+5. 💪 Opened PR [#89](https://github.com/typescript-community/community-bot/pull/89) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
 <!--END_SECTION:activity-->
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frobertwestbury)
