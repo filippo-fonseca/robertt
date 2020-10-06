@@ -21,4 +21,3 @@
 <!--END_SECTION:activity-->
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frobertwestbury)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robertt)](https://github.com/anuraghazra/github-readme-stats)
