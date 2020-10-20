@@ -13,11 +13,11 @@
 ### ✨ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/typescript-community/community-bot/issues/99) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
-2. 🗣 Commented on [#91](https://github.com/typescript-community/community-bot/issues/91) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
-3. 🎉 Merged PR [#96](https://github.com/typescript-community/community-bot/pull/96) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
-4. ❗️ Closed issue [#95](https://github.com/typescript-community/community-bot/issues/95) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
-5. 🗣 Commented on [#96](https://github.com/typescript-community/community-bot/issues/96) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
+1. 🎉 Merged PR [#99](https://github.com/typescript-community/community-bot/pull/99) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
+2. 🗣 Commented on [#99](https://github.com/typescript-community/community-bot/issues/99) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
+3. 🗣 Commented on [#91](https://github.com/typescript-community/community-bot/issues/91) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
+4. 🎉 Merged PR [#96](https://github.com/typescript-community/community-bot/pull/96) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
+5. ❗️ Closed issue [#95](https://github.com/typescript-community/community-bot/issues/95) in [typescript-community/community-bot](https://github.com/typescript-community/community-bot)
 <!--END_SECTION:activity-->
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frobertwestbury)
